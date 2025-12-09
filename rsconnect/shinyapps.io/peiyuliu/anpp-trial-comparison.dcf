@@ -5,6 +5,6 @@ account: peiyuliu
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 15229399
-bundleId: 10923602
+bundleId: 11292653
 url: https://peiyuliu.shinyapps.io/anpp-trial-comparison/
 version: 1
